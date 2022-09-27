@@ -1,0 +1,15 @@
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\bin\Debug\net6.0\dz_9.exe
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\bin\Debug\net6.0\dz_9.deps.json
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\bin\Debug\net6.0\dz_9.runtimeconfig.json
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\bin\Debug\net6.0\dz_9.dll
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\bin\Debug\net6.0\dz_9.pdb
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.csproj.AssemblyReference.cache
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.AssemblyInfoInputs.cache
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.AssemblyInfo.cs
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.csproj.CoreCompileInputs.cache
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.dll
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\refint\dz_9.dll
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.pdb
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\dz_9.genruntimeconfig.cache
+C:\Users\Тотороши\Desktop\olesya\SeminarsC#\dz_9\obj\Debug\net6.0\ref\dz_9.dll
